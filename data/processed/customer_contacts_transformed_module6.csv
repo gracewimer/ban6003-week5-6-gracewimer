@@ -1,0 +1,16 @@
+customer_id,state_clean,state_region,segment_group,contact_method_clean,channel_clean,digital_channel,product_clean,possible_fraud_issue
+1001,TX,South,High Value,Email,web   organic,False,Loan Application,False
+1002,TX,South,High Value,Email,web organic,True,Loan Application,False
+1003,TX,South,Standard,Phone,mobile app,True,Checking Account,True
+1004,CA,West,Standard,Phone,branch,False,Credit Card,False
+1005,CA,West,Standard,Text,mobile app,True,Credit Card,False
+1006,CA,West,High Value,Text,web   paid,False,Mortgage,True
+1007,NY,Northeast,High Value,Email,web paid,True,Mortgage,False
+1008,NY,Northeast,Unknown,Chat,call center,False,Auto Loan,False
+1009,NY,Northeast,Standard,Chat,call center,False,Auto Loan,True
+1010,FL,South,Standard,Email,partner referral,False,Checking Account,False
+1011,FL,South,High Value,Email,partner referral,False,Checking Account,False
+1012,FL,South,High Value,Text,branch,False,Credit Card,False
+1013,TX,South,Student,Phone,web   organic,False,Student Loan,False
+1014,CA,West,Student,Text,mobile app,True,Student Loan,False
+1015,NV,West,Standard,Email,unknown,False,Personal Loan,False
